@@ -155,24 +155,6 @@ A full-stack e-commerce platform for cricket gear with product listings, cart, a
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=MayankAtoria20&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=B497FF&icon_color=8A2BE2&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MayankAtoria20&theme=radical&hide_border=true&background=0d1117&stroke=8A2BE2&ring=B497FF&fire=B497FF&currStreakLabel=B497FF" />
-
-<br/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankAtoria20&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=B497FF&text_color=c9d1d9" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MayankAtoria20&theme=react-dark&bg_color=0d1117&color=B497FF&line=8A2BE2&point=D4C1FF&hide_border=true" width="97%" />
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
 ## 🏆 Achievements & Certifications
 
