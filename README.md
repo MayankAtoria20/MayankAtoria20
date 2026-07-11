@@ -1,21 +1,21 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi%20There,%20I'm%20%5BYour%20Name%5D&fontSize=40&fontColor=D4C1FF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=16&descColor=A991F7" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hi%20There,%20I'm%20Mayank%20Kumar%20Atoria&fontSize=40&fontColor=D4C1FF&animation=fadeIn&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Aspiring%20Software%20Engineer&descAlignY=58&descSize=16&descColor=A991F7" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=B497FF&center=true&vCenter=true&width=650&lines=B.Tech+in+Computer+Science+%5BSpecialization%5D;Class+of+%5BGraduation+Year%5D;Learning%2C+Building%2C+Growing+Every+Day;Open+to+Internship+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=B497FF&center=true&vCenter=true&width=650&lines=B.Tech+in+Computer+Science+%28Web+Development%29;Class+of+2026;Learning%2C+Building%2C+Growing+Every+Day;Open+to+Internship+Opportunities" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/🎓%20%5BCollege%2FUniversity%20Name%5D-Class%20of%20%5B2026%5D-6E40C9?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/📍%20%5BCity%2C%20Country%5D-8A2BE2?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/🎓%20JECRC-Class%20of%202026-6E40C9?style=for-the-badge&labelColor=1a1a2e" />
+<img src="https://img.shields.io/badge/📍%20Jaipur%2C%20Rajasthan-8A2BE2?style=for-the-badge&labelColor=1a1a2e" />
 
 <br/><br/>
 
-<a href="https://linkedin.com/in/[your-linkedin]">
+<a href="https://linkedin.com/in/mayank-kumar-atoria">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
 </a>
 <a href="https://[your-portfolio-url].com">
@@ -39,7 +39,6 @@
 - 🤝 Actively looking to collaborate on **open-source projects**.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
 
 </div>
 
@@ -109,7 +108,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### ♻️ [Garbage Management System](https://github.com/[github-username]/garbage-management-system)
+### ♻️ [Garbage Management System](https://github.com/MayankAtoria20/garbage-management-system)
 A system designed to streamline waste collection and management using [brief description of approach — e.g., route optimization / complaint tracking / scheduling].
 
 **Tech:** `Java` `MySQL` `Swing/HTML-CSS`
@@ -118,7 +117,7 @@ A system designed to streamline waste collection and management using [brief des
 </td>
 <td width="50%" valign="top">
 
-### 🔴🟡 [Connect 4 Game](https://github.com/[github-username]/connect-4-game)
+### 🔴🟡 [Connect 4 Game](https://github.com/MayankAtoria20/connect-4-game)
 A classic two-player strategy game built with a fully functional win-detection engine and interactive UI.
 
 **Tech:** `Python` / `JavaScript` `HTML` `CSS`
@@ -129,7 +128,7 @@ A classic two-player strategy game built with a fully functional win-detection e
 <tr>
 <td width="50%" valign="top">
 
-### ✅ [To-Do List Application](https://github.com/[github-username]/todo-list-app)
+### ✅ [To-Do List Application](https://github.com/MayankAtoria20/todo-list-app)
 A responsive task management app with add, edit, delete, and mark-complete functionality, and persistent storage.
 
 **Tech:** `HTML` `CSS` `JavaScript`
@@ -138,7 +137,7 @@ A responsive task management app with add, edit, delete, and mark-complete funct
 </td>
 <td width="50%" valign="top">
 
-### 🏏 [Cricket E-Commerce Website](https://github.com/[github-username]/cricket-ecommerce)
+### 🏏 [Cricket E-Commerce Website](https://github.com/MayankAtoria20/cricket-ecommerce)
 A full-stack e-commerce platform for cricket gear with product listings, cart, and checkout flow.
 
 **Tech:** `React` `Node.js` `MySQL`
@@ -150,7 +149,7 @@ A full-stack e-commerce platform for cricket gear with product listings, cart, a
 
 <div align="center">
 
-[![More Projects](https://img.shields.io/badge/View%20All%20Projects-7F5AF0?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/[github-username]?tab=repositories)
+[![More Projects](https://img.shields.io/badge/View%20All%20Projects-7F5AF0?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/MayankAtoria20?tab=repositories)
 
 </div>
 
@@ -160,16 +159,16 @@ A full-stack e-commerce platform for cricket gear with product listings, cart, a
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=[github-username]&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=B497FF&icon_color=8A2BE2&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=[github-username]&theme=radical&hide_border=true&background=0d1117&stroke=8A2BE2&ring=B497FF&fire=B497FF&currStreakLabel=B497FF" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=MayankAtoria20&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=B497FF&icon_color=8A2BE2&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MayankAtoria20&theme=radical&hide_border=true&background=0d1117&stroke=8A2BE2&ring=B497FF&fire=B497FF&currStreakLabel=B497FF" />
 
 <br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[github-username]&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=B497FF&text_color=c9d1d9" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MayankAtoria20&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=B497FF&text_color=c9d1d9" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=[github-username]&theme=react-dark&bg_color=0d1117&color=B497FF&line=8A2BE2&point=D4C1FF&hide_border=true" width="97%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MayankAtoria20&theme=react-dark&bg_color=0d1117&color=B497FF&line=8A2BE2&point=D4C1FF&hide_border=true" width="97%" />
 
 </div>
 
@@ -208,10 +207,10 @@ A full-stack e-commerce platform for cricket gear with product listings, cart, a
 
 <div align="center">
 
-<a href="https://linkedin.com/in/[your-linkedin]">
+<a href="https://linkedin.com/in/mayank-kumar-atoria">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" />
 </a>
-<a href="https://github.com/[github-username]">
+<a href="https://github.com/MayankAtoria20">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" />
 </a>
 <a href="https://[your-portfolio-url].com">
@@ -225,23 +224,16 @@ A full-stack e-commerce platform for cricket gear with product listings, cart, a
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## 💡 Fun Facts
 
-<div align="center">
 
-<img src="https://img.shields.io/badge/💜%20Favorite%20Language-%5BC%2B%2B%20%2F%20Python%2F JavaScript%5D-8A2BE2?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/🎮%20Outside%20Coding-%5BGaming%2FMusic%2FSports%5D-8A2BE2?style=for-the-badge&labelColor=1a1a2e" />
-<img src="https://img.shields.io/badge/🔭%20Tech%20Interest-%5BAI%2FML%2FWeb3%2FCloud%5D-8A2BE2?style=for-the-badge&labelColor=1a1a2e" />
 
-<br/><br/>
 
-*"[Your personal motto — e.g., 'Consistency beats intensity.']"*
 
-<br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
 
-</div>
+
+
+
 
 
 
