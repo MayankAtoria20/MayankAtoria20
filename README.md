@@ -31,22 +31,15 @@
 
 ## 🚀 About Me
 
-- 🎓 Final-year (or [Year]) Computer Science student passionate about **building real-world software solutions**
+- 🎓 Third-year Computer Science student passionate about **building real-world software solutions**
 - 💡 Deeply interested in **web development, problem-solving, and system design**
 - 🌱 Currently strengthening my foundations in **Data Structures & Algorithms** and **full-stack development**
 - 🎯 Career goal: land a **Software Engineering internship/full-time role** where I can grow as a developer and contribute to impactful products
 - ⚙️ I enjoy turning ideas into working applications — from concept, to code, to deployment
-- 🤝 Actively looking to collaborate on **open-source projects** and hackathons
+- 🤝 Actively looking to collaborate on **open-source projects**.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## 🎓 Education
-
-<div align="center">
-
-| Degree | Institution | Duration | Status |
-|:---|:---|:---:|:---:|
-| B.Tech / B.E. in Computer Science / IT | [College/University Name] | 20XX – 20XX | 🟢 Ongoing |
 
 </div>
 
