@@ -155,26 +155,6 @@ A full-stack e-commerce platform for cricket gear with product listings, cart, a
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-| Certification / Course | Platform / Issuer | Year |
-|:---|:---:|:---:|
-| [Certification Name, e.g., "Python for Everybody"] | [Coursera / Udemy / NPTEL] | 20XX |
-| [Certification Name] | [Issuer] | 20XX |
-| [Certification Name] | [Issuer] | 20XX |
-
-</div>
-
-- 🏅 Participated in **[Hackathon Name]** — [one-line outcome, e.g., "built a working prototype in 24 hours"]
-- 💻 Competed in **[Coding Competition Name]** — [ranking/outcome if applicable]
-- 🎤 Attended **[Workshop/Seminar Name]** on [topic]
-- 🌟 [Any other technical event, symposium, or club participation]
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-
 ## 🌱 Goals for 2026
 
 - [ ] Strengthen **Data Structures & Algorithms** through consistent daily practice
