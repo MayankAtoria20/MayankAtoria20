@@ -29,7 +29,7 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-## 🚀 About Me
+##  About Me
 
 - 🎓 Third-year Computer Science student passionate about **building real-world software solutions**
 - 💡 Deeply interested in **web development, problem-solving, and system design**
